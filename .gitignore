@@ -1,0 +1,13 @@
+**/node_modules/*
+*.zip
+attractions4u-cache/packaging/*
+attractions4u-cache/redis/*
+attractions4u-attraction-py/*/
+attractions4u-recommender/*/
+**/nltk_data/*
+*.pt
+*.jpg
+visual-features/rekognition.py
+*.pem
+*.pdf
+*.npy
